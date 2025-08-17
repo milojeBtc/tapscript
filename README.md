@@ -954,6 +954,7 @@ https://github.com/bitcoin-core/btcdeb/blob/master/doc/tapscript-example-with-ta
 
 Use this library however you want!
 
-## Contact
+## 👥 Contact
 
-You can find me on twitter at `@btctechsupport` or on nostr at `npub1gg5uy8cpqx4u8wj9yvlpwm5ht757vudmrzn8y27lwunt5f2ytlusklulq3`
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
